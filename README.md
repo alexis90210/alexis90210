@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexis90210
+- 👋 Hi, I’m @alexis_ngoyi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on fluter dart, php , python
