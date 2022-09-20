@@ -40,10 +40,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&show_icons=true&locale=en&layout=compact&theme=prussian" alt="alexis90210" /></p><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=en" alt="alexis90210" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=en&theme=prussian" alt="alexis90210" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexis90210&" alt="alexis90210" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexis90210&theme=prussian" alt="alexis90210" /></p>
 
 
 [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
