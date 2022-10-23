@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexis ngoyi</h1>
 <h3 align="center">A passionate frontend and backend developer from Congo-Brazzaville</h3>
 
+My previous job as a fullstack developer provided me with the ideal experience for this position. Over five years, I've developed many of the skills required for this job, so I've developed several end-to-end computer programs that I think I'm up to for the job. After an interview, I think we will be able to see how useful I can be to you.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexis90210&label=Profile%20views&color=0e75b6&style=flat" alt="alexis90210" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexis90210" alt="alexis90210" /></a> </p>
