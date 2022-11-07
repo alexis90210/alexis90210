@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis ngoyi</h1>
 <h3 align="center">A passionate frontend and backend developer from Congo-Brazzaville</h3>
-
+<a href="https://wakatime.com/@87ba5400-e128-4aec-a89d-85310b743b49"><img src="https://wakatime.com/badge/user/87ba5400-e128-4aec-a89d-85310b743b49.svg" alt="Total time coded since Sep 20 2022" /></a>
 My previous job as a fullstack developer provided me with the ideal experience for this position. Over five years, I've developed many of the skills required for this job, so I've developed several end-to-end computer programs that I think I'm up to for the job. After an interview, I think we will be able to see how useful I can be to you.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexis90210&label=Profile%20views&color=0e75b6&style=flat" alt="alexis90210" /> </p>
@@ -9,7 +9,7 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a href="https://wakatime.com/@87ba5400-e128-4aec-a89d-85310b743b49"><img src="https://wakatime.com/badge/user/87ba5400-e128-4aec-a89d-85310b743b49.svg" alt="Total time coded since Sep 20 2022" /></a>
+
 [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 
 - 🔭 I’m currently working on [MTN AFRI-SCHOOL](afri-school.com)
