@@ -24,6 +24,8 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 - ⚡ Fun fact **I think I'm funny :)**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=github-readme-stats)](https://github.com/alexis90210/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis ngoyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis ngoyi" height="30" width="40" /></a>
