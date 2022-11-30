@@ -24,7 +24,7 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 - ⚡ Fun fact **I think I'm funny :)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=Lekol-school-managment-system)](https://github.com/alexis90210/Lekol-school-managment-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=angular-typescript-crud)](https://github.com/alexis90210/angular-typescript-crud)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
