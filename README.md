@@ -47,7 +47,7 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&show_icons=true&locale=en&layout=compact&theme=prussian" alt="alexis90210" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis90210&langs_count=12&show_icons=true&locale=en&layout=compact&theme=prussian" alt="alexis90210" /></p><br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexis90210&show_icons=true&locale=en&theme=prussian" alt="alexis90210" /></p>
