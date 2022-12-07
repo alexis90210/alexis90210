@@ -12,13 +12,13 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 
-- 🔭 I’m currently working on [MTN AFRI-SCHOOL](afri-school.com)
+- 🔭 I’m currently working on [DIGI PRIVATE SCHOOL 2030]()
 
 - 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **HFinance**
 
-- 💬 Ask me about **ract native , nuxt , vue , php , flutter , symfony**
+- 💬 Ask me about **react native , nuxt , vue , php , flutter , symfony**
 
 - 📫 How to reach me **alexisng90210@gmail.com**
 
