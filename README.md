@@ -37,19 +37,15 @@
   </p>
 
 
-<p align="center">
-  [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 
+<p align="center">
+  
+  [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 </p>
 
 <p align="center">
   
-
-  - 🔭 I’m currently working on [ENTERPRISE PROJETS MANAGEMENT]() - 👯 I’m
-  looking to collaborate on [HISOKA ORM]() - 📫 How to reach me
-  **alexisng90210@gmail.com** - ⚡ Fun fact **I think I'm funny :)**
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=angular-typescript-crud)](https://github.com/alexis90210/angular-typescript-crud)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=angular-typescript-crud)](https://github.com/alexis90210/angular-typescript-crud)
 
 </p>
   <h3 align="center">Connect with me:</h3>
