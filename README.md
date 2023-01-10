@@ -38,16 +38,11 @@
 
 
 
-<p align="center">
+<center>
   
   [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
-</p>
+</center>
 
-<p align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexis90210&repo=angular-typescript-crud)](https://github.com/alexis90210/angular-typescript-crud)
-
-</p>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/alexis ngoyi" target="blank"
