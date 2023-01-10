@@ -38,10 +38,11 @@
 
 
 <p align="center">
+  [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 
-[![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
+</p>
 
-
+<p align="center">
   
 
   - 🔭 I’m currently working on [ENTERPRISE PROJETS MANAGEMENT]() - 👯 I’m
