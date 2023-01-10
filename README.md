@@ -12,6 +12,14 @@ My previous job as a fullstack developer provided me with the ideal experience f
 
 [![alexis90210's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hisoka_tegiro)](https://github.com/alexis90210/github-readme-stats)
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/alexis90210/count.svg" />
+</p>
+
+
 - 🔭 I’m currently working on [ENTERPRISE PROJETS MANAGEMENT]()
 
 - 👯 I’m looking to collaborate on [HISOKA ORM]()
