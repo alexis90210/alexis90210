@@ -1,4 +1,5 @@
 <div>
+<p align="center"><a href="#"><img src="dance.gif" /></a>
   <h1 align="center">Hi 👋, I'm Alexis ngoyi</h1>
   <h3 align="center">
     A passionate frontend and backend developer from Congo-Brazzaville
