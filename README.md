@@ -100,7 +100,7 @@
   <p
   align="center">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=alexis90210&theme=prussian"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=alexis90210&theme=algolia"
       alt="alexis90210"
     />
   </p>
