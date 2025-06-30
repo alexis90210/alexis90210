@@ -1,10 +1,5 @@
 <div>
 <p align="center"><a href="#"><img src="dance.gif" /></a>
-  <h1 align="center">Hi 👋, I'm Alexis ngoyi</h1>
-   <h2 align="center" style="color:rgb(255,0,0) !important; ">Currently, working for digital-transverse.com </h2>
-  <h3 align="center">
-    A passionate frontend and backend developer from Congo-Brazzaville
-  </h3>
 
   <p align="center"><a href="https://wakatime.com/@87ba5400-e128-4aec-a89d-85310b743b49"
     ><img
@@ -20,14 +15,32 @@
 
   <p align="center"><a href="#"><img src="contributions.gif" /></a>
   </p>
-  <p align="center">
-    My previous job as a fullstack developer provided me with the ideal experience
-    for this position. Over five years, I've developed many of the skills required
-    for this job, so I've developed several end-to-end computer programs that I
-    think I'm up to for the job. After an interview, I think we will be able to
-    see how useful I can be to you.
-  
-  </p>
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333;">
+  <h2>👋 Salut, je suis <strong>Alexis Ngoyi M.</strong></h2>
+  <p>Développeur fullstack passionné basé à <strong>Congo-Brazzaville</strong>.</p>
+
+  <h3>💻 Compétences techniques</h3>
+  <ul>
+    <li><strong>Frontend :</strong> Vue.js, NuxtJS, ReactJS, Angular, TypeScript, Flutter</li>
+    <li><strong>Backend :</strong> PHP (Symfony, Laravel), Node.js (AdonisJS), Python</li>
+    <li><strong>Mobile :</strong> React Native, Flutter</li>
+    <li><strong>Outils :</strong> ElectronJS, Git, Docker, Firebase</li>
+  </ul>
+
+  <h3>🚀 Projets phares</h3>
+  <ul>
+    <li><strong>HBM</strong> – Système de gestion de bus et agences de voyage (Vue.js)</li>
+    <li><strong>Lekol</strong> – Plateforme de gestion scolaire (Vue.js)</li>
+    <li><strong>Mboka</strong> – Application e-commerce (Flutter)</li>
+    <li><strong>Employee Report Manager</strong> – Outil RH (TypeScript)</li>
+  </ul>
+
+  <h3>📫 À propos</h3>
+  <p>Actuellement chez <a href="https://qirah.com" target="_blank">CEO, QIRHA</a>, je suis toujours ouvert à de nouveaux défis, collaborations ou opportunités.</p>
+
+  <p>👉 N’hésite pas à explorer mes dépôts ou à me contacter pour discuter tech, projets ou innovation !</p>
+</div>
+
   
 
   <p align="center">
